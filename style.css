@@ -1,1 +1,40 @@
-#
+body {
+  background-image: url(./img/sd-papua.jpg);
+  background-size: cover;
+}
+
+.logo-sd {
+  float: left;
+}
+
+.tutwuri {
+  float: right;
+}
+
+h2, h3 {
+  text-shadow: 5px 5px 5px grey;
+}
+
+#registrasi-form {
+  margin-top: 50px;
+  color: white;
+  text-shadow: 5px 5px 5px grey;
+}
+
+.form-group {
+  width: 450px;
+}
+
+#alamat {
+  height: 150px;
+}
+
+#submit {
+  width: 200px;
+}
+
+table {
+  margin-top: 70px;
+  color: black;
+  text-shadow: 2px 2px 10px white;
+}
